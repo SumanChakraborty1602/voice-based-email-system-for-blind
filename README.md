@@ -15,7 +15,7 @@ The project is a python-based application for visually impaired persons using sp
 
 3.Count number of unseen emails.
 
-4.Send emmails with all attachments.
+4.Send emails with all attachments.
 
 # Thank you
 
