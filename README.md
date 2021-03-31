@@ -1,6 +1,7 @@
 # voice-based-email-system-for-blind
 
-Created By : Suman Chakraborty License : MIT Email: sumanc12320@gmail.com
+Created By :- Suman Chakraborty  Email address:- sumanc12320@gmail.com
+
 Free, Open-Source Emailing System for Blind 
 # About
 
@@ -13,6 +14,6 @@ The project is a python-based application for visually impaired persons using sp
 3.Count number of unseen emails.
 4.Send emmails with all attachments.
 
-#Thank you
+# Thank you
 
 I'll be glad to have some feedbacks. Thanks for using and supporting this project!!!
