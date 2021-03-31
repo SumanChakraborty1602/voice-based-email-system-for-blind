@@ -11,7 +11,7 @@ The project is a python-based application for visually impaired persons using sp
 
 1.Send email via voice.
 
-2.etch unseen emails.
+2.Fetch unseen emails.
 
 3.Count number of unseen emails.
 
