@@ -10,8 +10,11 @@ The project is a python-based application for visually impaired persons using sp
 # Features
 
 1.Send email via voice.
+
 2.etch unseen emails.
+
 3.Count number of unseen emails.
+
 4.Send emmails with all attachments.
 
 # Thank you
